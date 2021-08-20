@@ -14,5 +14,8 @@
     "generetor"
   ],
   "author": "super4le <alessandracursio@hotmail.it>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.6.2"
+  }
 }
